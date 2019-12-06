@@ -531,4 +531,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u5834\u666F.unity"
-  playerPath: D:/KID/TNU_2DGame/TEST
+  playerPath: D:/KID/TNU_2DGame/Web
